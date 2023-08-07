@@ -73,7 +73,6 @@ const Admin = () => {
     }
   };
   
-  console.log(token)
   
   const handleSubmit = async (e) => {
     e.preventDefault();
