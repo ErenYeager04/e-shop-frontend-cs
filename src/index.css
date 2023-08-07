@@ -1,0 +1,48 @@
+.product-image {
+  max-height: 300px;
+  object-fit: cover;
+}
+
+.product-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.product-price {
+  font-size: 16px;
+  color: #888;
+}
+
+.add-to-cart-btn {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.view-details-btn {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  margin-left: 10px;
+}
+.col {
+  margin-bottom: 1rem;
+}
+.custom-hr {
+  border: none;
+  height: 4px;
+  background-color: #0d6efd; /* Replace with your desired color */
+}
+
+.genre-checkboxes {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.genre-checkbox {
+  flex-basis: 20%;
+  max-width: 20%;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
